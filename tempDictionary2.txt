@@ -1,0 +1,3 @@
+The: Article
+a: Noun
+people: Noun
